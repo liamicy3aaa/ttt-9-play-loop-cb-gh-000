@@ -42,3 +42,4 @@ play(board)
     turn(board)
   end
 end
+end
