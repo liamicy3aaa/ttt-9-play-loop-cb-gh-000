@@ -41,5 +41,4 @@ play(board)
   until turns == 10
     turn(board)
   end
-end
-end
+
